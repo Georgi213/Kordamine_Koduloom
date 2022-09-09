@@ -1,0 +1,3 @@
+Sarik,hall,7
+Praim,Must,2
+Murka,Must,1
